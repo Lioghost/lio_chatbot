@@ -5,6 +5,14 @@
     <template>I have no answer for that.</template>
   </category>
 <category>
+    <pattern>¿Que estado tiene la mejor comida?</pattern>
+    <template>Oaxaca, Guerrero, Michoacan, Puebla y Veracruz</template>
+</category>
+<category>
+    <pattern>¿Cuál es uno de los platillos más comunes en la zona centro del país </pattern>
+    <template>Todo tipo de tacos, como por ejemplo al pastor, suadero, de canasta, tambien tlacoyos, guajolotas, quesadillas</template>
+</category>
+<category>
     <pattern></pattern>
     <template></template>
 </category>
