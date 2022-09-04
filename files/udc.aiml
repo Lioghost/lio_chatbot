@@ -13,11 +13,11 @@
     <template>Todo tipo de tacos, como por ejemplo al pastor, suadero, de canasta, tambien tlacoyos, guajolotas, quesadillas</template>
 </category>
 <category>
-    <pattern>¿Cuáles son las bebidas típicas de México </pattern>
+    <pattern>¿Cuáles son las bebidas típicas de México? </pattern>
     <template>Tepache, pulque, mezcal y tequila</template>
 </category>
 <category>
-    <pattern>¿Qué elemento es base en la comida mexicana </pattern>
+    <pattern>¿Qué elemento es base en la comida mexicana? </pattern>
     <template>el maíz</template>
 </category>
 <category>
